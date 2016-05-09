@@ -1,6 +1,8 @@
 # ScriptsDWI
 Scripts for analyses of DWI
 
+## parsing_method_file.ipython
+
 This script extracts all the useful data from the 'method' file for some DWI analyses.
 The script is a Python Notebook.
 
